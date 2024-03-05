@@ -43,7 +43,6 @@ Sumber data yang digunakan berasal dari https://www.kaggle.com/datasets/lakshmi2
     python -m streamlit run bike.py
    ```
 
-
      
 
 
