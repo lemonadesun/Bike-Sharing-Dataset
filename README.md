@@ -10,9 +10,9 @@ ID Dicoding: M232D4KX2951
 
 Dataset Bike Sharing merupakan kumpulan data yang mencakup informasi tentang penyewaan sepeda harian yang mencatat jumlah sepeda yang dipinjam, cuaca, dan faktor-faktor lain yang memengaruhi kegiatan peminjaman sepeda. Dataset ini berisikan informasi tentang penyewaan sepeda harian yang mencakup data tanggal, musim, tahun, bulan, jam, hari libur, hari kerja, cuaca, suhu, suhu terasa, kelembaban, kecepatan angin, serta jumlah pengguna sepeda casual, pengguna sepeda terdaftar, dan total jumlah penyewaan sepeda. Namun pada proyek ini variabel yang dipakai hanya data data tanggal, jam, dan cuaca. Hasil visualisasi dari dataset bike sharing akan digunakan dalam menjawab 2 pertanyaan, yaitu:
 
-1. Pertanyaan 1: Berapa total jam penyewaan sepeda tertinggi dalam satu hari yang tercatat dalam data rental sepeda dan apa faktor yang mempengaruhi peningkatan penyewaan sepeda pada hari tersebut?
+Pertanyaan 1: Berapa total jam penyewaan sepeda tertinggi dalam satu hari yang tercatat dalam data rental sepeda dan apa faktor yang mempengaruhi peningkatan penyewaan sepeda pada hari tersebut?
 
-2. Pertanyaan 2: Apakah penyewaan sepeda dipengaruhi oleh kondisi cuaca?
+Pertanyaan 2: Apakah penyewaan sepeda dipengaruhi oleh kondisi cuaca?
 
 ## Sumber Data
 
