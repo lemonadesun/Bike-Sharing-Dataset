@@ -1,7 +1,9 @@
 # Proyek Analisis Data: Bike Sharing Dataset
 
 Nama: Septia Clara Sinaga
+
 Email: M232D4KX2951@bangkit.academy
+
 ID Dicoding: M232D4KX2951
 
 ## Bike Sharing Dataset
